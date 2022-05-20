@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gabrielbelleboni
-- 📫 How to reach me: my e-mail is: gabriel.belleboni@gmail.com
+- 📫 Contact me at gabriel_belleboni@hotmail.com
 
 <!---
 gabrielbelleboni/gabrielbelleboni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
